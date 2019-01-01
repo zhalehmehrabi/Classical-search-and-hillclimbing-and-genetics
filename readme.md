@@ -11,7 +11,7 @@ the cities.txt is for applying classical searches on Romanias cities.
 
 the secProblem.txt is for coloring graph blow
 
-![alt text](https://cdn1.imggmi.com/uploads/2019/1/1/4947563fc9c8f0247fb5032e3a2dfd50-full.png)
+![alt text](https://cdn1.imggmi.com/uploads/2019/1/1/2e3a7070957c4aca3ea0a01237bd58a9-full.png)
 ### BFS
 ### DFS
 ### depth limited search
